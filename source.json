@@ -1,0 +1,73 @@
+{
+  "name": "quay-store-offic",
+  "identifier": "io.github.neosay-dev.quay-store-offic",
+  "website": "https://github.com/neosay-dev/quay-store-offic",
+  "apps": [
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "neosay-dev",
+      "subtitle": "Spotify IPA взлом",
+      "localizedDescription": "Музыкальный стриминговый сервис с лицензионным контентом в высоком качестве и частичной разблокировкой премиум-функций.\n❗️чтобы работал мод необходимо каждые 14 дней менять регион через браузер и ставить регион на тот который у вас дает vpn",
+      "iconURL": "https://raw.githubusercontent.com/neosay-dev/quay-store-offic/main/icons/com.spotify.client.png",
+      "category": "social",
+      "versions": [
+        {
+          "version": "9.2.0",
+          "buildVersion": "920002054",
+          "date": "2026-11-16T15:51:28Z",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/neosay-dev/quay-store-offic/releases/download/com.spotify.client-9.2.0/Spotify-9.2.0.ipa",
+          "size": 146944361,
+          "sha256": "00450a5aec1fd5f7126a46086eb8563b30f9beacacd67fe3b7c9ce7dcf286f7b",
+          "minOSVersion": "15.0"
+        }
+      ]
+    },
+    {
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "neosay-dev",
+      "subtitle": "YouTube Music",
+      "localizedDescription": "YouTube Music — музыкальный стриминговый сервис американской видеоплатформы YouTube. Позволяет прослушивать песни и альбомы, загруженные на YouTube музыкантами, лейблами и обычными пользователями, а также подкасты (как уже загруженные на YouTube, так и из внешних источников).",
+      "iconURL": "https://raw.githubusercontent.com/neosay-dev/quay-store-offic/main/icons/com.google.ios.youtubemusic.png",
+      "category": "social",
+      "versions": [
+        {
+          "version": "9.38.1",
+          "buildVersion": "9.38.1",
+          "date": "2026-11-16T15:51:46Z",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/neosay-dev/quay-store-offic/releases/download/com.google.ios.youtubemusic-9.38.1/YouTube-Music-9.38.1.ipa",
+          "size": 106059575,
+          "sha256": "52d29241ef34698d6908a28669487fe4c6ecd25acd04c788cb781e3c2c84c6e0",
+          "minOSVersion": "10.0"
+        }
+      ]
+    },
+    {
+      "name": "CapCut",
+      "bundleIdentifier": "com.lemon.lvoverseas9",
+      "developerName": "neosay-dev",
+      "subtitle": "CapCut",
+      "localizedDescription": "С его помощью можно создавать видеоролики с множеством функций и интуитивно понятным интерфейсом.\nНекоторые возможности CapCut:\nВизуальное редактирование. Интуитивный визуальный редактор позволяет создавать сложные видео без необходимости в глубоких навыках видеомонтажа.\nГотовые компоненты. Богатая библиотека готовых компонентов для быстрого создания видеороликов.\nЗелёный фон и анимации. Функция «зелёного экрана» и множество анимаций, которые позволяют добавлять к видео творческие элементы.\nПрофессиональное редактирование. Мощные инструменты редактирования и возможности цветокоррекции.\nМузыкальная библиотека. CapCut предоставляет богатую коллекцию музыки и звуковых эффектов.\nТранскрибация видео. Автоматическая транскрибация видео в текст и перевод на разные языки делают видеоролики более доступными и удобными для аудитории.",
+      "iconURL": "https://raw.githubusercontent.com/neosay-dev/quay-store-offic/main/icons/com.lemon.lvoverseas9.png",
+      "category": "",
+      "versions": [
+        {
+          "version": "10.3.0",
+          "buildVersion": "10.3.0.60",
+          "date": "2026-11-16T15:52:23Z",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/neosay-dev/quay-store-offic/releases/download/com.lemon.lvoverseas9-10.3.0/CapCut-10.3.0.ipa",
+          "size": 167610942,
+          "sha256": "fb4cb2f7ac7007cf5b195ea76f11e8f5300ec2a2f498f33f2b4d87ed51180fc8",
+          "minOSVersion": "10.0"
+        }
+      ]
+    }
+  ],
+  "news": [],
+  "subtitle": "Официальный источник для quay-store",
+  "tintColor": "#e87236"
+}
