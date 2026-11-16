@@ -15,7 +15,7 @@
         {
           "version": "9.2.0",
           "buildVersion": "920002054",
-          "date": "2026-11-16T15:51:28Z",
+          "date": "2026-11-16T15:57:51Z",
           "localizedDescription": "",
           "downloadURL": "https://github.com/neosay-dev/quay-store-offic/releases/download/com.spotify.client-9.2.0/Spotify-9.2.0.ipa",
           "size": 146944361,
@@ -36,7 +36,7 @@
         {
           "version": "9.38.1",
           "buildVersion": "9.38.1",
-          "date": "2026-11-16T15:51:46Z",
+          "date": "2026-11-16T15:58:11Z",
           "localizedDescription": "",
           "downloadURL": "https://github.com/neosay-dev/quay-store-offic/releases/download/com.google.ios.youtubemusic-9.38.1/YouTube-Music-9.38.1.ipa",
           "size": 106059575,
@@ -57,12 +57,33 @@
         {
           "version": "10.3.0",
           "buildVersion": "10.3.0.60",
-          "date": "2026-11-16T15:52:23Z",
+          "date": "2026-11-16T15:58:38Z",
           "localizedDescription": "",
           "downloadURL": "https://github.com/neosay-dev/quay-store-offic/releases/download/com.lemon.lvoverseas9-10.3.0/CapCut-10.3.0.ipa",
           "size": 167610942,
           "sha256": "fb4cb2f7ac7007cf5b195ea76f11e8f5300ec2a2f498f33f2b4d87ed51180fc8",
           "minOSVersion": "10.0"
+        }
+      ]
+    },
+    {
+      "name": "VoidGram",
+      "bundleIdentifier": "one.ayugram.unofficial.ios",
+      "developerName": "neosay-dev",
+      "subtitle": "VoidGram",
+      "localizedDescription": "VoidGram — an unofficial Telegram client for iOS, based on AyuGram: enhanced privacy controls, customization, and message history on iPhone. Currently under development",
+      "iconURL": "https://raw.githubusercontent.com/neosay-dev/quay-store-offic/main/icons/one.ayugram.unofficial.ios.png",
+      "category": "social",
+      "versions": [
+        {
+          "version": "13.1.1",
+          "buildVersion": "192",
+          "date": "2026-11-16T15:59:04Z",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/neosay-dev/quay-store-offic/releases/download/one.ayugram.unofficial.ios-13.1.1/VoidGram-13.1.1.ipa",
+          "size": 112800624,
+          "sha256": "8562a70ba22ac971d98f52e7c5c3da8b1e9c7bf95267ecca8a4158a6df2a1006",
+          "minOSVersion": "15.0"
         }
       ]
     }
